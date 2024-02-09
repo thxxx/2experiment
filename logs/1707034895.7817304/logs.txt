@@ -1,0 +1,1 @@
+02-04 00:21 : Start Finetuning without mixed audio for baseline : 3e-8, 48

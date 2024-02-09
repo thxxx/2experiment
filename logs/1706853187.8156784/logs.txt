@@ -1,0 +1,3 @@
+02-01 21:53 : Start Finetuning without mixed audio
+02-01 21:54 : Batch idx : 99, 2.241229772567749
+

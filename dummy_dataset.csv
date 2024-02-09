@@ -1,0 +1,100 @@
+audio_path,caption,duration
+/workspace/sound_test/dataset/01_house collapsing sound effect.mp3,01_house collapsing sound effect,13.635918367346939
+/workspace/sound_test/dataset/02_concert crowds cheering.mp3,02_concert crowds cheering,50.07673469387755
+/workspace/sound_test/dataset/03_angry mob sound.mp3,03_angry mob sound,24.790204081632652
+/workspace/sound_test/dataset/04_sports crowd cheering.mp3,04_sports crowd cheering,13.688163265306123
+/workspace/sound_test/dataset/05_loud applause.mp3,05_loud applause,12.617142857142857
+/workspace/sound_test/dataset/06_small applause.mp3,06_small applause,6.6873469387755105
+/workspace/sound_test/dataset/07_dog barking noise.mp3,07_dog barking noise,0.8359183673469388
+/workspace/sound_test/dataset/08_angry dog barking noise.mp3,08_angry dog barking noise,1.2277551020408164
+/workspace/sound_test/dataset/09_wooden door shutting-01.mp3,09_wooden door shutting-01,1.0971428571428572
+/workspace/sound_test/dataset/09_wooden door shutting-02.mp3,09_wooden door shutting-02,1.3322448979591837
+/workspace/sound_test/dataset/09_wooden door shutting-03.mp3,09_wooden door shutting-03,1.7240816326530612
+/workspace/sound_test/dataset/1.propellar aircraft sound.wav,1.propellar aircraft sound,8.71578231292517
+/workspace/sound_test/dataset/10.heart monitor beep sound effect.wav,10.heart monitor beep sound effect,6.247596371882087
+/workspace/sound_test/dataset/10_wooden door Squeak 01.mp3,10_wooden door Squeak 01,1.0187755102040816
+/workspace/sound_test/dataset/10_wooden door Squeak 02.mp3,10_wooden door Squeak 02,0.9404081632653061
+/workspace/sound_test/dataset/10_wooden door Squeak Short.mp3,10_wooden door Squeak Short,0.39183673469387753
+/workspace/sound_test/dataset/11.mechanical game text readout beep sound effects(one).wav,11.mechanical game text readout beep sound effects(one),0.12501133786848073
+/workspace/sound_test/dataset/11.mechanical game text readout beep sound effects.wav,11.mechanical game text readout beep sound effects,0.5482312925170068
+/workspace/sound_test/dataset/11_metal door shutting 01.mp3,11_metal door shutting 01,1.5673469387755101
+/workspace/sound_test/dataset/11_metal door shutting 02.mp3,11_metal door shutting 02,1.4628571428571429
+/workspace/sound_test/dataset/11_metal door shutting 03.mp3,11_metal door shutting 03,1.5412244897959184
+/workspace/sound_test/dataset/12.iphone-like text message beep.wav,12.iphone-like text message beep,1.2090929705215419
+/workspace/sound_test/dataset/12_door lock.mp3,12_door lock,0.4963265306122449
+/workspace/sound_test/dataset/13.grocery store barcode scan beep sound.wav,13.grocery store barcode scan beep sound,0.5
+/workspace/sound_test/dataset/13_door unlock.mp3,13_door unlock,0.8359183673469388
+/workspace/sound_test/dataset/14.elevator bell sound effect.wav,14.elevator bell sound effect,1.5078004535147391
+/workspace/sound_test/dataset/14_Dragon Flapped(1).mp3,14_Dragon Flapped(1),1.123265306122449
+/workspace/sound_test/dataset/14_Dragon Flapped(2).mp3,14_Dragon Flapped(2),1.123265306122449
+/workspace/sound_test/dataset/15.church bell sound effect.wav,15.church bell sound effect,3.0629931972789115
+/workspace/sound_test/dataset/15_Dragon Roar_Long.mp3,15_Dragon Roar_Long,3.4481632653061225
+/workspace/sound_test/dataset/15_Dragon Roar_Short.mp3,15_Dragon Roar_Short,2.0375510204081633
+/workspace/sound_test/dataset/16.boxing match bell sound effect.wav,16.boxing match bell sound effect,1.1675736961451246
+/workspace/sound_test/dataset/16_dragon breathing fire.mp3,16_dragon breathing fire,2.9257142857142857
+/workspace/sound_test/dataset/17.school bell sound effect.wav,17.school bell sound effect,2.3750113378684805
+/workspace/sound_test/dataset/17_wooden drawer slide opening.mp3,17_wooden drawer slide opening,1.123265306122449
+/workspace/sound_test/dataset/18.bicycle bell sound effect.wav,18.bicycle bell sound effect,0.9388208616780045
+/workspace/sound_test/dataset/18_metal drawer slide opening.mp3,18_metal drawer slide opening,1.1493877551020408
+/workspace/sound_test/dataset/19.parrot sound effect.wav,19.parrot sound effect,4.603492063492063
+/workspace/sound_test/dataset/19_wooden drawer slide closing.mp3,19_wooden drawer slide closing,3.2914285714285714
+/workspace/sound_test/dataset/2.passenger aircraft sound.wav,2.passenger aircraft sound,9.917551020408164
+/workspace/sound_test/dataset/20.pigeon sound effect.wav,20.pigeon sound effect,3.6131519274376416
+/workspace/sound_test/dataset/20_metal drawer slide closing.mp3,20_metal drawer slide closing,3.0040816326530613
+/workspace/sound_test/dataset/21.bird wings flapping.wav,21.bird wings flapping,1.976780045351474
+/workspace/sound_test/dataset/21_searching through a drawer full of items(hard).mp3,21_searching through a drawer full of items(hard),2.9779591836734696
+/workspace/sound_test/dataset/21_searching through a drawer full of items(soft).mp3,21_searching through a drawer full of items(soft),2.403265306122449
+/workspace/sound_test/dataset/22.motorboat engine sound effect.wav,22.motorboat engine sound effect,8.517460317460317
+/workspace/sound_test/dataset/22_high voltage buzz(no Spark).mp3,22_high voltage buzz(no Spark),6.478367346938776
+/workspace/sound_test/dataset/22_high voltage buzz.mp3,22_high voltage buzz,6.478367346938776
+/workspace/sound_test/dataset/23.creaking wooden hull sound of an old ship.wav,23.creaking wooden hull sound of an old ship,1.9573469387755102
+/workspace/sound_test/dataset/23_electric spark sound effect 01.mp3,23_electric spark sound effect 01,1.0448979591836736
+/workspace/sound_test/dataset/23_electric spark sound effect 02.mp3,23_electric spark sound effect 02,0.9404081632653061
+/workspace/sound_test/dataset/23_electric spark sound effect 03.mp3,23_electric spark sound effect 03,1.2277551020408164
+/workspace/sound_test/dataset/24.sail flapping on the wind.wav,24.sail flapping on the wind,0.905827664399093
+/workspace/sound_test/dataset/24_electrical hum sound effect.mp3,24_electrical hum sound effect,3.186938775510204
+/workspace/sound_test/dataset/25.magical twinkle sound effect.wav,25.magical twinkle sound effect,1.1137414965986394
+/workspace/sound_test/dataset/25_electric circuit switch sound effect 01.mp3,25_electric circuit switch sound effect 01,1.5673469387755101
+/workspace/sound_test/dataset/25_electric circuit switch sound effect 02.mp3,25_electric circuit switch sound effect 02,1.436734693877551
+/workspace/sound_test/dataset/26.cartoon pop sound effect.wav,26.cartoon pop sound effect,0.48934240362811793
+/workspace/sound_test/dataset/26_electric shutdown sound effect.mp3,26_electric shutdown sound effect,3.683265306122449
+/workspace/sound_test/dataset/27.cartoon laughing sound effect.wav,27.cartoon laughing sound effect,0.9786848072562359
+/workspace/sound_test/dataset/27_cow sound effect.mp3,27_cow sound effect,2.9257142857142857
+/workspace/sound_test/dataset/28.comical boing sound effect.wav,28.comical boing sound effect,1.2770748299319727
+/workspace/sound_test/dataset/28_goat sound effect.mp3,28_goat sound effect,1.0710204081632653
+/workspace/sound_test/dataset/29.cartoon punch sound effect.wav,29.cartoon punch sound effect,0.48934240362811793
+/workspace/sound_test/dataset/29_pig sound effect.mp3,29_pig sound effect,1.6718367346938776
+/workspace/sound_test/dataset/3.fighter jet fly-by sound.wav,3.fighter jet fly-by sound,6.8859410430839
+/workspace/sound_test/dataset/30.cat meowing sound.wav,30.cat meowing sound,1.1010204081632653
+/workspace/sound_test/dataset/30_chicken sound effect.mp3,30_chicken sound effect,2.455510204081633
+/workspace/sound_test/dataset/31.angry cat growling noise.wav,31.angry cat growling noise,3.200113378684807
+/workspace/sound_test/dataset/31_punch landing on human body 01.mp3,31_punch landing on human body 01,0.3395918367346939
+/workspace/sound_test/dataset/31_punch landing on human body 02.mp3,31_punch landing on human body 02,0.3657142857142857
+/workspace/sound_test/dataset/31_punch landing on human body 03.mp3,31_punch landing on human body 03,1.253877551020408
+/workspace/sound_test/dataset/32.camera shutter click sound effect.wav,32.camera shutter click sound effect,0.48934240362811793
+/workspace/sound_test/dataset/32_metal swords clashing.mp3,32_metal swords clashing,1.1755102040816328
+/workspace/sound_test/dataset/33.room light switch click sound effect.wav,33.room light switch click sound effect,0.48934240362811793
+/workspace/sound_test/dataset/33_wooden swords clashing.mp3,33_wooden swords clashing,0.8620408163265306
+/workspace/sound_test/dataset/34.toy motor winding sound effect.wav,34.toy motor winding sound effect,3.6010430839002265
+/workspace/sound_test/dataset/34_kick swish through the air.mp3,34_kick swish through the air,1.2016326530612245
+/workspace/sound_test/dataset/35.computer keyboard typing sound effect.wav,35.computer keyboard typing sound effect,2.3108843537414967
+/workspace/sound_test/dataset/35_body falling 01.mp3,35_body falling 01,1.4106122448979592
+/workspace/sound_test/dataset/35_body falling 02.mp3,35_body falling 02,1.4106122448979592
+/workspace/sound_test/dataset/36.computer mouse clicking sound effect.wav,36.computer mouse clicking sound effect,0.48934240362811793
+/workspace/sound_test/dataset/36_crackling flame sound effect (paper).mp3,36_crackling flame sound effect (paper),16.848979591836734
+/workspace/sound_test/dataset/36_crackling flame sound effect (wood).mp3,36_crackling flame sound effect (wood),16.718367346938777
+"/workspace/sound_test/dataset/37.loud crash, like hearthstone damage sound effect.wav","37.loud crash, like hearthstone damage sound effect",0.9578004535147392
+/workspace/sound_test/dataset/37_loud fire roaring sound effect.mp3,37_loud fire roaring sound effect,17.78938775510204
+"/workspace/sound_test/dataset/38.moderate crash, like hearthstone damage sound effect.wav","38.moderate crash, like hearthstone damage sound effect",0.9578004535147392
+/workspace/sound_test/dataset/38_small fireworks sound effect.mp3,38_small fireworks sound effect,3.944489795918367
+"/workspace/sound_test/dataset/39.small crash, like ineffective damage.wav","39.small crash, like ineffective damage",0.7721995464852608
+/workspace/sound_test/dataset/39.small+crash-+like+ineffective+damage.wav,39.small+crash-+like+ineffective+damage,0.7721995464852608
+/workspace/sound_test/dataset/39_loud fireworks sound effect.mp3,39_loud fireworks sound effect,8.045714285714286
+/workspace/sound_test/dataset/4.alarm clock sound effect.wav,4.alarm clock sound effect,6.603605442176871
+/workspace/sound_test/dataset/40.car crash sound effect.wav,40.car crash sound effect,2.984784580498866
+/workspace/sound_test/dataset/40_fireworks bursting.mp3,40_fireworks bursting,12.826122448979591
+/workspace/sound_test/dataset/5.fire alarm sound effect.wav,5.fire alarm sound effect,11.065396825396826
+/workspace/sound_test/dataset/6.air raid sound effect.wav,6.air raid sound effect,6.55843537414966
+/workspace/sound_test/dataset/7.military base alarm sound like in sci-fi movie.wav,7.military base alarm sound like in sci-fi movie,6.776009070294784
+/workspace/sound_test/dataset/8.fast clock ticking sound effect.wav,8.fast clock ticking sound effect,6.4
+/workspace/sound_test/dataset/9.microwave beep sound effect.wav,9.microwave beep sound effect,2.797437641723356
